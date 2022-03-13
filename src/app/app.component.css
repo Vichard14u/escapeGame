@@ -1,3 +1,14 @@
 .row{
   margin-top: 10px;
 }
+.img-background{
+  background-image: url("../assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.titre{
+  color: white;
+  text-shadow: 2px 2px 2px #000000;
+}
+
