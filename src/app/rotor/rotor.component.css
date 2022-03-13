@@ -1,0 +1,16 @@
+#img{
+  transition: 500ms ease all;
+}
+
+.img-absolute{
+  position: absolute;
+  width: 180px;
+  height: 180px;
+}
+
+.test{
+  height: 180px;
+}
+.btn{
+  padding: 0 5px 0 5px !important;
+}
